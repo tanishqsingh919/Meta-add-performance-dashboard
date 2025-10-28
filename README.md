@@ -1,6 +1,6 @@
-# Meta-add-performance-dashboard
+
 ## 1️) Project Title / Headline
-## **Meta Ad Performance Dashboard**
+# **Meta Ad Performance Dashboard**
 
 ## 2️) Short Description / Purpose
 This Power BI project analyzes and visualizes advertising performance data across Meta platforms (Facebook & Instagram).
