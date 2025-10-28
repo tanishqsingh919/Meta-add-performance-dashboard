@@ -42,6 +42,6 @@ It enables marketing teams and business decision-makers to evaluate campaign eff
 - Enabled stakeholders to make data-backed marketing decisions, enhancing ROI and ad performance consistency across platforms.
 
 ## 5)ScreenShots
-Facebook - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/Facebook%20Dashboard.png
-Instagram - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/instagram%20dashboard.png
+- Facebook - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/Facebook%20Dashboard.png
+- Instagram - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/instagram%20dashboard.png
 
