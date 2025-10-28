@@ -43,4 +43,5 @@ D) Business Impact & Insights
 
 5)ScreenShots
 • Facebook - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/Facebook%20Dashboard.png
+• Instagram  - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/instagram%20dashboard.png
 
