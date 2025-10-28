@@ -15,8 +15,8 @@ It enables marketing teams and business decision-makers to evaluate campaign eff
 
 ## 4️) Features / Highlights
 ### A) Business Problem
-• Marketers often struggle to gain clear insights into ad performance across multiple Meta platforms.
-• Disparate metrics, audience variations, and spending data make it difficult to assess which platform or ad type drives the best results.
+- Marketers often struggle to gain clear insights into ad performance across multiple Meta platforms.
+- Disparate metrics, audience variations, and spending data make it difficult to assess which platform or ad type drives the best results.
   The absence of unified reporting limits optimization potential and strategic ad budgeting.
 
 ### **B) Goal of the Dashboard**
