@@ -41,3 +41,6 @@ D) Business Impact & Insights
 • Improved budget allocation efficiency by focusing spending on high-performing ad types and regions.
 • Enabled stakeholders to make data-backed marketing decisions, enhancing ROI and ad performance consistency across platforms.
 
+5)ScreenShots
+• Facebook - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/Facebook%20Dashboard.png
+
