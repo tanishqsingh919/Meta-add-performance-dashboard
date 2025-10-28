@@ -14,7 +14,7 @@ It enables marketing teams and business decision-makers to evaluate campaign eff
 • **Design:** Clean, interactive layout with platform-based segmentation and dynamic measure selection
 
 ## 4️) Features / Highlights
-### **A) Business Problem**
+### A) Business Problem
 • Marketers often struggle to gain clear insights into ad performance across multiple Meta platforms.
 • Disparate metrics, audience variations, and spending data make it difficult to assess which platform or ad type drives the best results.
   The absence of unified reporting limits optimization potential and strategic ad budgeting.
