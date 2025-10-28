@@ -8,10 +8,10 @@ The dashboard provides a unified view of key metrics such as impressions, clicks
 It enables marketing teams and business decision-makers to evaluate campaign effectiveness, audience behavior, and ROI for data-driven ad strategy optimization.
 
 ## 3️) Tech Stack
-• **Tool:** Microsoft Power BI
-• **Data Sources:** Meta Ads Data (Facebook & Instagram)
-• **Visualization Elements:** KPI cards, bar charts, pie charts, maps, line charts, heatmaps, dynamic filters
-• **Design:** Clean, interactive layout with platform-based segmentation and dynamic measure selection
+- • **Tool:** Microsoft Power BI
+- • **Data Sources:** Meta Ads Data (Facebook & Instagram)
+- • **Visualization Elements:** KPI cards, bar charts, pie charts, maps, line charts, heatmaps, dynamic filters
+- • **Design:** Clean, interactive layout with platform-based segmentation and dynamic measure selection
 
 ## 4️) Features / Highlights
 ### A) Business Problem
