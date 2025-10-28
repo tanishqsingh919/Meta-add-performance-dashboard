@@ -20,28 +20,28 @@ It enables marketing teams and business decision-makers to evaluate campaign eff
   The absence of unified reporting limits optimization potential and strategic ad budgeting.
 
 ### **B) Goal of the Dashboard**
-• To consolidate Facebook and Instagram ad performance into one unified, interactive Power BI dashboard.
-• To track and compare key metrics like impressions, clicks, shares, comments, purchases, engagement rate, conversion rate,and budget allocation.
-• To identify top-performing demographics, regions, and ad types for better targeting and campaign planning.
-• To support data-driven decisions for improving ad efficiency and maximizing ROI.
+- To consolidate Facebook and Instagram ad performance into one unified, interactive Power BI dashboard.
+- To track and compare key metrics like impressions, clicks, shares, comments, purchases, engagement rate, conversion rate,and budget allocation.
+- To identify top-performing demographics, regions, and ad types for better targeting and campaign planning.
+- To support data-driven decisions for improving ad efficiency and maximizing ROI.
 
 ### **C) Walkthrough of the Key Visuals**
-• KPI Cards (Top Section): Display high-level campaign metrics — impressions, clicks, engagement, conversion rate, and total budget.
-• Engagement/Impressions by Gender & Age: Highlights demographic distribution, showing which age groups and genders engage the most.
-• Engagement/Impressions by Country (Map): Displays global ad reach and performance hotspots.
-• Weekly & Hourly Trends: Tracks user engagement and impressions over time to identify optimal posting periods.
-• Monthly Analysis Calendar: Provides an interactive date selection for filtering performance by specific timeframes.
-• Ad Type Analysis Table: Compares Carousel, Image, Stories, and Video ads across CTR, engagement rate, purchase rate, and conversion rate.
-• Dynamic Filters (Right Panel): Enable users to switch between platforms (Facebook/Instagram), select measures, and filter by audience segments.
+- KPI Cards (Top Section): Display high-level campaign metrics — impressions, clicks, engagement, conversion rate, and total budget.
+- Engagement/Impressions by Gender & Age: Highlights demographic distribution, showing which age groups and genders engage the most.
+- Engagement/Impressions by Country (Map): Displays global ad reach and performance hotspots.
+- Weekly & Hourly Trends: Tracks user engagement and impressions over time to identify optimal posting periods.
+- Monthly Analysis Calendar: Provides an interactive date selection for filtering performance by specific timeframes.
+- Ad Type Analysis Table: Compares Carousel, Image, Stories, and Video ads across CTR, engagement rate, purchase rate, and conversion rate.
+- Dynamic Filters (Right Panel): Enable users to switch between platforms (Facebook/Instagram), select measures, and filter by audience segments.
 
 ### **D) Business Impact & Insights**
-• Helped identify that Instagram drives higher engagement, while Facebook contributes to higher impressions and conversions.
-• Revealed optimal engagement hours and weekdays, improving ad scheduling strategies.
-• Provided clarity on demographic targeting, with stronger engagement from the 18–35 age group.
-• Improved budget allocation efficiency by focusing spending on high-performing ad types and regions.
-• Enabled stakeholders to make data-backed marketing decisions, enhancing ROI and ad performance consistency across platforms.
+- Helped identify that Instagram drives higher engagement, while Facebook contributes to higher impressions and conversions.
+- Revealed optimal engagement hours and weekdays, improving ad scheduling strategies.
+- Provided clarity on demographic targeting, with stronger engagement from the 18–35 age group.
+- Improved budget allocation efficiency by focusing spending on high-performing ad types and regions.
+- Enabled stakeholders to make data-backed marketing decisions, enhancing ROI and ad performance consistency across platforms.
 
 ## 5)ScreenShots
-• Facebook - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/Facebook%20Dashboard.png
-• Instagram  - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/instagram%20dashboard.png
+- Facebook - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/Facebook%20Dashboard.png
+- Instagram  - https://github.com/tanishqsingh919/Meta-add-performance-dashboard/blob/main/instagram%20dashboard.png
 
